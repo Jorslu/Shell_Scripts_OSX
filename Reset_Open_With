@@ -1,0 +1,5 @@
+# Don't remember where I got this from. If you are/know the owner, let me know so that I can properly give credit.
+
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -kill -r -domain local -domain user;
+killall Finder;
+echo "Open With has been rebuilt, Finder will relaunch"
