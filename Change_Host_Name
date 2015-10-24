@@ -1,0 +1,1 @@
+sudo scutil –-set HostName new_hostname
